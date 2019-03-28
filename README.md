@@ -1,8 +1,12 @@
 # vscode-go-dev-plugin
 
-使用vscode开发golang程序时， 好多必须而有用的插件下载不了， 故在此提供给需要的使用gopher.
+使用vscode开发golang程序必备插件:  
+自动提示  
+格式化代码  
+调试  
+...
 
-或者这里下载(提取码：f32w ) ：  
+这里下载(提取码：f32w ) ：  
 - [https://pan.baidu.com/s/19nNNMQ8k8hZ3saSivPnTDg](https://pan.baidu.com/s/19nNNMQ8k8hZ3saSivPnTDg)
  
    
