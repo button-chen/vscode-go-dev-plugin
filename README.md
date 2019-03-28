@@ -1,16 +1,16 @@
 # vscode-go-dev-plugin
 
-使用vscode开发golang程序必备插件:  
-自动提示  
-格式化代码  
-调试  
-...
+## 使用vscode开发golang程序必备插件:  
+- 自动提示  
+- 格式化代码  
+- 调试  
+- ...
 
 这里下载(提取码：f32w ) ：  
 - [https://pan.baidu.com/s/19nNNMQ8k8hZ3saSivPnTDg](https://pan.baidu.com/s/19nNNMQ8k8hZ3saSivPnTDg)
  
    
-下载后放到 %GOPATH% 下， 然后执行下面命令：
+## 下载后放到 %GOPATH% 下， 然后执行下面命令：
 
 go install github.com/mdempsky/gocode  
 go install github.com/uudashr/gopkgs/cmd/gopkgs  
